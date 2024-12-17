@@ -18,7 +18,7 @@ export const PersonalMessage: React.FC = () => (
       </div>
     </div>
     <p className="text-xl leading-relaxed">
-      Chole, you light up my life like the brightest star on the Christmas tree.
+      Chloe, you light up my life like the brightest star on the Christmas tree.
       Every moment with you is a gift I cherish deeply.
       Here's a little digital celebration of our love during this magical season.
     </p>
