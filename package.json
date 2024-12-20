@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "preview-android": "npx react-native start && npx react-native run-android",
+    "preview-ios": "npx react-native start && npx react-native run-ios"
   },
   "dependencies": {
     "@capacitor/cli": "^6.2.0",
@@ -34,6 +36,7 @@
     "tailwindcss": "^3.4.1",
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.3.0",
+    "@react-native-community/cli": "latest",
     "vite": "^5.4.2"
   }
 }

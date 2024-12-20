@@ -3,7 +3,7 @@ import { Heart } from 'lucide-react';
 
 export const Header: React.FC = () => {
     useEffect(() => {
-        document.title = 'Merry Christmas, Chole!';
+        document.title = 'Merry Christmas, Chloe!';
     }, []);
 
     return (
